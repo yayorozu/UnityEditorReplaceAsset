@@ -2,7 +2,7 @@ using UnityEditor;
 using UnityEngine;
 using System.IO;
 
-namespace UniLib
+namespace Yorozu
 {
 	public class ReplaceAssetMenu
 	{
